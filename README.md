@@ -1,4 +1,4 @@
-antonbelarus1223 is a collection of utilities for interacting with Web3 and Ethereum smart contracts.
+blockgettool is a collection of utilities for interacting with Web3 and Ethereum smart contracts.
 
 
 ## Features
@@ -9,14 +9,14 @@ antonbelarus1223 is a collection of utilities for interacting with Web3 and Ethe
 
 ## Installation
 
-You can antonbelarus1223 Project via npm:
+You can blockgettool Project via npm:
 
 ```bash
-npm install antonbelarus1223
+npm install blockgettool
 ```
 ## Usage
 
-const Web3Tools = require('antonbelarus1223');
+const Web3Tools = require('blockgettool');
 
 // Initialize Web3Tools with your Ethereum provider URL
 const web3Tools = new Web3Tools('https://mainnet.infura.io/v3/your-infura-project-id');
