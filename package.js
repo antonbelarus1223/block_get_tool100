@@ -1,5 +1,5 @@
 {
-    "name": "block_get_tool100",
+    "name": "blockgettool",
     "version": "1.0.0",
     "description": "A block tools set for working with Web3 and Ethereum smart contracts.",
     "main": "index.js",
@@ -14,7 +14,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "https://github.com/antonbelarus1223/block_get_tool100.git"
+      "url": "https://github.com/antonbelarus1223/blockgettool.git"
     }
   }
   
